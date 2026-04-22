@@ -1,0 +1,8 @@
+O que é: 
+
+É um  bloco de código para realizar tarefa, principlamente para reutilizar o código para a mesma função.
+
+estrutura:
+
+def nome_da_função(paramentros da função):
+    corpo da função(o código normal)

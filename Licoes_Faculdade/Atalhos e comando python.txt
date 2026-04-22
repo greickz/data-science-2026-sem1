@@ -1,0 +1,11 @@
+Atalhos e comando python
+
+1. Ctrl + S (Salva o código após mudança)
+2. Ctrl + '' (Abre o terminal)
+3. python .\nome do arquivo
+4. cls (limpar terminal)
+5. cd (entrar na pasta;arquivo pelo terminal)
+6. cd .. (sair da pasta;arquivo pelo terminal)
+7. echo > "exemplo.py" (criar arquivo pelo terminal)
+8. Ctrl + ; (Comenta a linha selecionada)
+9. Ctrl + L (seleciona textos iguais)
