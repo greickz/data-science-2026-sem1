@@ -1,14 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=1º%20Semestre%20%7C%20Ciência%20de%20Dados&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Top%20Contributor%20to%20OpenClaude%20%7C%20Contributor%20to%20Open%20WebUI&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=1º%20Semestre%20%7C%20Ciência%20de%20Dados&fontColor=ffffff&descAlignY=60&animation=fadeIn" />
 
 ## Descrição
 
 Este repositório é uma compilação abrangente de exercícios práticos desenvolvidos durante o primeiro semestre do curso de Ciência de Dados em 2026. Os exercícios abordam uma variedade de tópicos fundamentais, desde estruturas de dados básicas em Python até técnicas avançadas de raspagem de dados web e tratamento de dados não estruturados.
-
-### Problema que Resolve
-O projeto resolve a necessidade de praticar e demonstrar competências essenciais em ciência de dados, incluindo manipulação de dados, programação lógica, análise exploratória e extração de dados da web. Ele serve como um portfólio prático para ilustrar a capacidade de aplicar conceitos teóricos em cenários reais de análise de dados.
-
-### Relevância
-Em um mercado competitivo, este repositório destaca habilidades práticas em Python para ciência de dados, tornando-o ideal para recrutadores que buscam profissionais capazes de lidar com dados heterogêneos, realizar raspagem web e conduzir análises básicas. Ele demonstra proficiência em ferramentas e metodologias padrão da indústria, facilitando a transição para projetos mais complexos.
 
 ## Tecnologias Utilizadas
 
